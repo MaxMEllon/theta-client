@@ -8,12 +8,8 @@ import {
 const $$$ = undefined;
 
 const request = axios.create({
-  baseURL: 'http://localhost:9876',
+  baseURL: 'http://localhost:4000',
   responseType: 'json',
-  headers: {
-    'X-XSRF-Protected': '1',
-    'X-Content-Type-Options': 'nosniff',
-  },
 });
 
 const cameraSessionRequest = () => (
