@@ -5,7 +5,7 @@ const { name } = require('./package.json');
 const DEBUG = process.env.NODE_ENV !== 'production';
 
 const green = '\u001b[32m';
-const reset   = '\u001b[0m';
+const reset = '\u001b[0m';
 
 console.log(`[DEBUG] ==> ${green}${DEBUG}${reset}`);
 
@@ -30,11 +30,7 @@ const configs = {
       },
     ],
   },
-  plugins: [
-  ],
-  resolve: {
-    modulesDirectories: ['node_modules', 'bower_components']
-  }
+  plugins: [],
 };
 
 switch (process.env.NODE_ENV) {

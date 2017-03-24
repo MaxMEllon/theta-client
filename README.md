@@ -1,49 +1,18 @@
-Your Application Name
+theta-client
 ---
 
-> Description
+> RICOH THETA web client application.
+> See: https://theta360.com/ja/about/theta/
 
-
-Installation
----
-
-- Sample
 
 Development
 ---
 Requirement global
-* `node` ~> `6.8.0`
-* `npm` ~> `3.10.8` or `yarn` -> `0.17.10`
+* `node` ~> `7.2.0`
+* `npm` ~> `4.0.5` or `yarn` -> `0.21.0`
 
 LICENSE
 ---
 
-**Copyright (c) 2017 `your name`** (a.k.a. `your handle name`) <br />
-Licensed under the [MIT license](./LICENSE.txt)
-
-- - -
-- - -
-
-
-Meta
----
-
-How to develop
-
-```
-$ yarn
-$ npm run dev
-```
-
-How to production build
-
-```
-$ yarn
-$ npm run build
-```
-
-LICENSE
----
-
-**Copyright (c) 2017 Kento TSUJI** (a.k.a. maxmellon) <br />
+**Copyright (c) 2017 `Kento TSUJI`** (a.k.a. `maxmellon`) <br />
 Licensed under the [MIT license](./LICENSE.txt)

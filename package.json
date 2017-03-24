@@ -1,5 +1,5 @@
 {
-  "name": "createjs-webpack-babel-redux-boilerplate",
+  "name": "theta-client",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "ssh://git@github.com/MaxMEllon/createjs-webpack-babel-redux-boilerplate.git",
